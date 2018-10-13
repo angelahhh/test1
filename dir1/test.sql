@@ -1,1 +1,1 @@
-select "changed script" from dual;
+select "changed script again" from dual;
